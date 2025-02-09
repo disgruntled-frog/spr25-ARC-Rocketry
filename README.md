@@ -6,3 +6,4 @@ Repo to track:
   - [ ] Base Station Code
   - [ ] TODO list (.md)
   - [ ] Obsidian Notes regarding research or plans (.md)
+  - [ ] Any additional resources deemed helpful
