@@ -62,11 +62,12 @@
 	- [ ] Base station UI 
 		- [ ] Processing telemetry data and display on live station
 - [ ] Data Logging
-	- [ ] Writing data to NOR Flash Chip
+	- [ ] Writing data to NOR/NAND Flash Chip (Recently looking more into NAND for $ and storage)
 	- [ ] Reading data through USB-C to personal PC (consider using [[USB VCP]])
 	- [ ] (optional) Reading data to base station via Radio Datalink
 - [ ] State Detection
-	- [ ] IMU Route (Check Datasheet / Find IMU that does)
+	- [ ] IMU will send interrupt for ignition, and for ballistic trajectory via interrupt pin
+		- 
 - [ ] Airbrake Control Loop
 	- [ ] PID Controller loop
 	- [ ] Function to calculate the drag / deceleration of the rocket compared with its velocity and extrusion and feed that into the control system
