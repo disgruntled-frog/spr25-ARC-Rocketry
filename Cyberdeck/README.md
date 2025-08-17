@@ -6,3 +6,4 @@
 ## - Trackpad and or Mouse 
 ## - Screen potentially touch screen 
 ## - **Radio module and antennas must fit and extend out to prevent a dead spot**
+## - Handle on the carying case
